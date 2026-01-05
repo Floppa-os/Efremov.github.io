@@ -9,4 +9,4 @@
 
 ## Настройка API
 
-- Для погоды: зарегистрируйтесь на [OpenWeatherMap](https://openweathermap.org/) и вставьте
+- Для погоды: зарегистрируйтесь на [OpenWeatherMap](https://openweathermap.org/) и вставьте ключ
