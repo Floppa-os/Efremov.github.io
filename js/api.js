@@ -1,7 +1,7 @@
 // Заглушка: в реальном проекте замените URL на API источников
 const API_URLS = {
-    news: 'https://newsapi.org/v2/top-headlines?country=ru&apiKey=6cb0447477344c7cb514c35827204a65', // пример
-    weather: 'https://api.openweathermap.org/data/2.5/weather?q=Ефремов&appid=d83cb720b531a4a9bf29dae686293dd9&units=metric&lang=ru',
+    news: 'https://newsapi.org/v2/top-headlines?country=ru&apiKey=ВАШ КЛЮЧ', // пример
+    weather: 'https://api.openweathermap.org/data/2.5/weather?q=Ефремов&appid=ВАШ КЛЮЧ=metric&lang=ru',
     events: 'https://mock-api.com/efremov/events'
 };
 
